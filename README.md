@@ -2,9 +2,7 @@
 
 A beginner-friendly machine learning project that predicts stock market trends using technical indicators and advanced ML algorithms.
 
-📄 **Project Report**: 
 📊 **Live Dashboard**: https://tradegenius-k9lfzg6tfqj9njayjr8kcy.streamlit.app/
-🎥 **Video Demo & Presentation**: 
 
 ## 📋 Table of Contents
 
@@ -63,7 +61,7 @@ This project demonstrates how to build an end-to-end AI system for stock market 
 ### 1. Clone & Setup
 ```bash
 git clone 
-cd TadeGenius
+cd TradeGenius
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
