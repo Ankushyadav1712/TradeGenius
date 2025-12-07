@@ -63,7 +63,7 @@ This project demonstrates how to build an end-to-end AI system for stock market 
 ### 1. Clone & Setup
 ```bash
 git clone 
-cd ai-market-trend-analysis
+cd TadeGenius
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -96,7 +96,7 @@ Opens interactive web dashboard at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-ai-market-trend-analysis/
+TradeGenius/
 │
 ├── 📂 data/
 │   ├── raw/                 # Raw stock data (CSV files)
