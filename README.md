@@ -3,7 +3,7 @@
 A beginner-friendly machine learning project that predicts stock market trends using technical indicators and advanced ML algorithms.
 
 📄 **Project Report**: 
-📊 **Live Dashboard**: 
+📊 **Live Dashboard**: https://tradegenius-k9lfzg6tfqj9njayjr8kcy.streamlit.app/
 🎥 **Video Demo & Presentation**: 
 
 ## 📋 Table of Contents
